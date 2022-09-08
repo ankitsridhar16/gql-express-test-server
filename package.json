@@ -1,0 +1,17 @@
+{
+  "name": "gql-express",
+  "version": "1.0.0",
+  "description": "an express based graphql server",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "server": "node app.js"
+  },
+  "author": "ankit sridhar",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "express-graphql": "^0.12.0",
+    "graphql": "^16.6.0"
+  }
+}
